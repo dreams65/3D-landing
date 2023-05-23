@@ -6,7 +6,7 @@
 
 ### Links
 
-- Live Site URL: [live site URL](https://dreams65.github.io/entertainment-web-app/)
+- Live Site URL: [live site URL](https://dreams65.github.io/3D-landing/)
 
 ### Built with
 
